@@ -12,9 +12,9 @@ We create a new large-scale Ancient-Modern Chinese parallel corpus which contain
 # Dataset
 
 We plan to gradually release the dataset. 
-The way to get the data is as follows:
 
-Please scan the [completed agreement](https://github.com/dayihengliu/a2m_chineseNMT/blob/master/Ancient-Modern%20Chinese%20Parallel%20Dataset%20Release%20Agreement.pdf) and send it to losinuris[AT]gmail.com. A notification email will be sent to the email address and downloading of the Dataset will be authorized once the procedure is approved.
+The dataset can be downloaded at the [[link]](https://drive.google.com/file/d/1HK9VE4r4SqsCEApaI9tW8V8vodzbS4uW/view?usp=sharing).
+
 
 
   
